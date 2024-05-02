@@ -1,0 +1,10 @@
+.profileCard {
+    width: max-content;
+    margin: 5px;
+    text-align: center;
+    padding: 10px;
+    background-color: aliceblue;
+    border: 1px 15% solid ;
+    border-radius: 10px;
+    box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.2), 0 7px 22px 0 rgba(0, 0, 0, 0.19);
+}
